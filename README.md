@@ -4,7 +4,8 @@
 
 ### Tips
   - 现阶段模拟1w个玩家抽卡时的效果，如图所示：
-<img src="https://cdn.discordapp.com/attachments/1130845366158377063/1228250552849137735/image.png?ex=662b5c77&is=6618e777&hm=78668b794413291929894974e139ead38cc53fbc9a7cece21d7751225fb3bf31&" alt="img" style="zoom:50%;" /><img src="https://cdn.discordapp.com/attachments/1130845366158377063/1228254459298189373/image.png?ex=662b601a&is=6618eb1a&hm=ddaae0bab9176750ecd39349c78d25e97119c45db30672623615be0174ae6857&" alt="img" style="zoom:50%;" />
+![image](https://github.com/DICE-LAB-SYX/ArkGachaService/assets/92897003/aca6b3c0-28c7-4a4b-aae2-7432396da4d2) ![image](https://github.com/DICE-LAB-SYX/ArkGachaService/assets/92897003/bd7e5514-b299-4708-8fb3-23d22124c417)
+
   - 5星的隐藏机制还在调优中（咕咕咕）
 
 ### 参考材料
